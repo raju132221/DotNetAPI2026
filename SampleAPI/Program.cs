@@ -27,7 +27,6 @@ namespace SampleAPI
 
             app.UseAuthorization();
 
-
             app.MapControllers();
 
             app.Run();
